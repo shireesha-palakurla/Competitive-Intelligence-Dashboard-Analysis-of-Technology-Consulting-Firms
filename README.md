@@ -1,11 +1,11 @@
 # Competitive-Intelligence-Dashboard-Analysis-of-Technology-Consulting-Firms
 
 
-Project Overview / Objective:
+#Project Overview / Objective:
 
 The project aims to analyze, compare, and visualize the strategies, market trends, and technology adoption of leading technology and consulting firms. The dashboard provides actionable insights to support strategic decision-making, competitive intelligence, and technology strategy planning.
 
-Scope of the Project:
+#Scope of the Project:
 
 Analyze 6–10 major technology and consulting firms, such as Deloitte, Accenture, KPMG, EY, McKinsey, BCG, IBM, Infosys, TCS, Capgemini.
 
@@ -19,7 +19,7 @@ Evaluate market positioning through comparison matrices, SWOT analysis, and mark
 
 Deliver insights and recommendations for strategic planning and business growth.
 
-Key Features:
+#Key Features:
 
 Company Overview Metrics: Revenue, growth, service lines, key clients, geographic presence.
 
@@ -35,7 +35,7 @@ Market Segmentation & Sizing: TAM/SAM/SOM analysis for key technology sectors.
 
 Interactive Dashboard: Filters by company, region, technology, and service line for actionable insights.
 
-Tech Stack Used:
+#Tech Stack Used:
 
 Python: Data collection, cleaning, analysis, and optional NLP for news sentiment.
 
