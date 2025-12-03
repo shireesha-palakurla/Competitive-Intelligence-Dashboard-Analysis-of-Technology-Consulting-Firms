@@ -1,60 +1,70 @@
-# Competitive-Intelligence-Dashboard-Analysis-of-Technology-Consulting-Firms
+# Getting Started with Create React App
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-**Project Title:**
+## Available Scripts
 
-Competitive Intelligence Dashboard – Analysis of Technology & Consulting Firms
+In the project directory, you can run:
 
-**Project Overview / Objective:**
+### `npm start`
 
-The project aims to analyze, compare, and visualize the strategies, market trends, and technology adoption of leading technology and consulting firms. The dashboard provides actionable insights to support strategic decision-making, competitive intelligence, and technology strategy planning.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-**Scope of the Project:**
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-Analyze 6–10 major technology and consulting firms, such as Deloitte, Accenture, KPMG, EY, McKinsey, BCG, IBM, Infosys, TCS, Capgemini.
+### `npm test`
 
-Track financial performance, service offerings, and global presence.
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-Monitor technology adoption trends (AI, Cloud, Cybersecurity, Analytics).
+### `npm run build`
 
-Collect competitor news and announcements, including mergers, acquisitions, partnerships, and product launches.
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-Evaluate market positioning through comparison matrices, SWOT analysis, and market segmentation.
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-Deliver insights and recommendations for strategic planning and business growth.
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-**Key Features:**
+### `npm run eject`
 
-Company Overview Metrics: Revenue, growth, service lines, key clients, geographic presence.
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-Technology & Market Trends: Adoption of emerging technologies, investment trends, and market dynamics.
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Competitor Moves Tracker: News, press releases, acquisitions, partnerships, and announcements with sentiment analysis.
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-Competitive Positioning Matrix: Visual representation of market leaders vs. emerging players.
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-SWOT Analysis: Strengths, weaknesses, opportunities, threats for each firm.
+## Learn More
 
-Market Segmentation & Sizing: TAM/SAM/SOM analysis for key technology sectors.
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-Interactive Dashboard: Filters by company, region, technology, and service line for actionable insights.
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-**Tech Stack Used:**
+### Code Splitting
 
-Python: Data collection, cleaning, analysis, and optional NLP for news sentiment.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-SQL / CSV: Data storage and structured dataset management.
+### Analyzing the Bundle Size
 
-Power BI / Tableau: Interactive dashboard for visualization and insights.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-Optional: Pandas, NumPy, Matplotlib, Seaborn, Plotly for analysis and charts.
+### Making a Progressive Web App
 
-**Project Workflow:**
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-Data Collection: Scrape competitor news, gather financial reports, market research datasets.
+### Advanced Configuration
 
-Data Cleaning & Analysis: Process datasets, calculate growth metrics, perform trend and SWOT analysis.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-Dashboard Development: Create interactive dashboards showing trends, comparisons, and insights.
+### Deployment
 
-Insights Generation: Summarize competitor strategies, technology adoption, and market opportunities.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
